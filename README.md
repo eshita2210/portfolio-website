@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="SS PROJECT" src="[C:\Users\evago\Desktop\personal-portfolio\SS PROJECT.png](https://github.com/eshita2210/portfolio-website/blob/main/src/assets/img/SS%20PROJECT.png)" />
-
+<img width="1266" alt="SS PROJECT" src="src/assets/img/SS PROJECT.png">
 Built using:
 
 - Front-end library: React
