@@ -2,21 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <img width="1266" alt="SS PROJECT" src="src/assets/img/SS PROJECT.png">
+<hr>
 
 ## Built using:
 
 - **Front-end library:** React
 - **CSS framework:** React-bootstrap
 - **CSS animations library:** Animate.css
+<hr>
 
 ## Key Features:
 
 - **Comprehensive Showcase:** Features an extensive overview of my skills and key projects.
 - **User Engagement:** Includes a subscription option for visitors to receive updates.
 
----
-
-
+<hr>
 
 ### Running the Project
 
